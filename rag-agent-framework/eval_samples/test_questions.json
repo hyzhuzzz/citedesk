@@ -1,0 +1,22 @@
+[
+  {"id": 1, "question": "开箱清单里都有哪些配件？", "answerable": true, "keywords": ["充电线", "入门指南", "USB-C", "cable"]},
+  {"id": 2, "question": "怎样把音箱连接到 Wi-Fi？", "answerable": true, "keywords": ["2.4GHz", "配网", "Wi-Fi"]},
+  {"id": 3, "question": "这款音箱支持哪些语音指令？", "answerable": true, "keywords": ["播放音乐", "闹钟", "音量", "music"]},
+  {"id": 4, "question": "一次充满电可以使用多久？", "answerable": true, "keywords": ["12 小时", "12小时", "hours"]},
+  {"id": 5, "question": "音箱用什么接口充电，充满大约需要多长时间？", "answerable": true, "keywords": ["USB-C", "3 小时", "3小时"]},
+  {"id": 6, "question": "指示灯显示红色代表什么？", "answerable": true, "keywords": ["电量低", "红色", "battery"]},
+  {"id": 7, "question": "如何恢复出厂设置？", "answerable": true, "keywords": ["15 秒", "15秒", "出厂设置"]},
+  {"id": 8, "question": "产品的保修期是多长时间？", "answerable": true, "keywords": ["12 个月", "12个月", "warranty"]},
+  {"id": 9, "question": "支持哪些音频格式？", "answerable": true, "keywords": ["MP3", "FLAC", "AAC"]},
+  {"id": 10, "question": "蓝牙版本是多少？", "answerable": true, "keywords": ["5.3", "Bluetooth", "蓝牙"]},
+  {"id": 11, "question": "如何控制智能家居设备？", "answerable": true, "keywords": ["智能灯泡", "智能家居", "插座"]},
+  {"id": 12, "question": "音箱无法开机时应该怎么办？", "answerable": true, "keywords": ["充电", "30 分钟", "30分钟"]},
+  {"id": 13, "question": "贵公司的股票代码是多少？", "answerable": false, "keywords": []},
+  {"id": 14, "question": "你们的创始人和首席执行官是谁？", "answerable": false, "keywords": []},
+  {"id": 15, "question": "如果我不想要了，如何申请退款？", "answerable": false, "keywords": []},
+  {"id": 16, "question": "竞争对手有哪些，他们的优势是什么？", "answerable": false, "keywords": []},
+  {"id": 17, "question": "公司明年计划发布哪些新型号？", "answerable": false, "keywords": []},
+  {"id": 18, "question": "目前公司一共有多少名员工？", "answerable": false, "keywords": []},
+  {"id": 19, "question": "总部办公楼的具体地址在哪里？", "answerable": false, "keywords": []},
+  {"id": 20, "question": "这款设备的生产制造成本是多少？", "answerable": false, "keywords": []}
+]
