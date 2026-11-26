@@ -7,4 +7,5 @@ venv/
 data/
 .streamlit/
 .pytest_cache/
+.workbuddy/
 .DS_Store
